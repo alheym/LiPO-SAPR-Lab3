@@ -1,0 +1,8 @@
+//
+// Created by User on 08.01.2019.
+//
+
+#ifndef LIPO_SAPR_LAB31_MYSTACK_H
+#define LIPO_SAPR_LAB31_MYSTACK_H
+
+#endif //LIPO_SAPR_LAB31_MYSTACK_H
